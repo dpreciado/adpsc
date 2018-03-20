@@ -1,0 +1,1703 @@
+{
+  "settings": {
+    "name": "ADP Secular Caucus",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#2f4d57",
+        "#2fa8d9",
+        "#3c3c3c",
+        "#dfbb48"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.6",
+    "uniqCompNum": 90,
+    "versionPublish": "4.6.6",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/united-states-capitol-west-front-2000x1037.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/6EfqPAvrU3k?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/6EfqPAvrU3k",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#2fa8d9",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Secular Caucus<br>",
+          "text": " \"No religious test shall ever be required as a Qualification to any Office or public trust under the United States\".\n<br>\n<br>-Article Six of the United States Constitution",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://survey.azblueleader.com/index.php/237923?lang=en\" data-toolbar=\"-mbrBtnMove\">Join the Secular Caucus</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://secure.actblue.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a>  ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            ".btn": {
+              "font-size": "16px"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H1": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-720x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Message from the Chair",
+          "text": "<p>What is the role of the caucus as a leader and voice for its community in arizona?</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-8"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/6EfqPAvrU3k",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Fancy Title Here!",
+          "meta": "Subititle Here!&nbsp;",
+          "text": "<p>We will get a team to make a polished video for your caucus.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-n"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#000000",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/21765618-1563669623727992-2112647847704651658-o-1-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/21765618-1563669623727992-2112647847704651658-o-1-2000x1125-800x418.jpg",
+                "alt": "",
+                "caption": "Fancy Captions Here!",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/21950018-1563617487066539-8074127794138883669-o-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/21950018-1563617487066539-8074127794138883669-o-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Fancy Captions Here!",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/25542434-1748747828553503-8284795215061277213-o-1-1152x2048.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25542434-1748747828553503-8284795215061277213-o-1-1152x2048-800x679.jpg",
+                "alt": "",
+                "caption": "Fancy Captions Here!",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/21950804-1563610760400545-2806598925905371815-o-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/21950804-1563610760400545-2806598925905371815-o-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Fancy Captions Here!",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "",
+              "rawUrl": "",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "The Secular Community",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pr-15.05.12-rls-chapter1-5-420x385.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<br>Policy Issues",
+          "caption1": "\"The share of Americans who identify as atheists has roughly doubled in the past several years.\"<br><br>- <a href=\"http://www.pewresearch.org/fact-tank/2016/06/01/10-facts-about-atheists/\">Pew Reserach Center</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/age-distribution-among-democrats-and-democratic-leaners-who-are-atheist-600x259.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "<br><br><br><br><br><br><br><br><br>Age Demographics",
+          "caption2": "Atheist are leaning toward the youngest demographic.<br><br>- <a href=\"http://www.pewforum.org/religious-landscape-study/religious-family/atheist/party-affiliation/democratlean-dem/\">Pew Forum</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/capture-453x547.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "<br><br><br>Diversity &amp; Inclusion",
+          "caption3": "This data gives a peek at the characteristics of the LGBT community living in the United States as a whole.<br><br>- <a href=\"https://williamsinstitute.law.ucla.edu/visualization/lgbt-stats/?topic=LGBT#density\">Williams Institute</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-19"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-720x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f0f0f0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/AZSecularCaucus/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-18",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-17",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-2-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Secular Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azsecularcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" class=\"text-white\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" class=\"text-white\" target=\"_blank\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Secular Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">AZ Secular Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/\" target=\"_blank\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#255f9f"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/18556867-1399682520126704-6199270623220335578-o-128x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2h"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "CaucusLeaders",
+        "order": 6
+      },
+      "components": [
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "CAUCUS LEADERSHIP<br>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/capplanetskin-feat-970x545.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-v",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Scott Prior, Chair",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: ?\n<br>Email: chair@azsecularcaucus.org<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-640x607.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-w"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Cara Prior, Vice Chair",
+          "meta": "<br>Hello,<br><br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:<br><br>Sincerely,<br><br>Signer<br><br>Phone: ? \n<br>Email: vicechair@azsecularcaucus.org<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-1-640x607.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-x"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "? , Secretary",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: ?\n<br>Email: vicechair@azsecularcaucus.org",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-3-640x607.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1s"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "\n<div><span style=\"color: inherit; font-family: inherit;\">? , Treasurer</span><br></div>",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: ?\n<br>Email: vicechair@azsecularcaucus.org",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header3-1t"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-2-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Secular Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azsecularcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" class=\"text-white\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" class=\"text-white\" target=\"_blank\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Secular Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">AZ Secular Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/\" target=\"_blank\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2c82c9"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#2877b8"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/18556867-1399682520126704-6199270623220335578-o-128x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-25"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Mission",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#27aae0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Mission",
+          "text": "<p>The AZ Secular Caucus focuses on creating a coalition of people of faith, or people of no faith, that believe in the separation of church and state</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-14"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dfbb48",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Vision",
+          "text": "<p>The Arizona Democratic Party's Secular Caucus is an organization that will focus on bringing people together. The Secular Caucus isn't against religion; the Secular Caucus believes that All people, regardless of religious faith or no faith, should be represented equally by our government. We believe in secular government, not favoring any specific religion or ideology, according to the 1st Amendment of the US Constitution.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-15"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-2-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Secular Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azsecularcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" class=\"text-white\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" class=\"text-white\" target=\"_blank\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Secular Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">AZ Secular Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/\" target=\"_blank\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2c82c9"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#2877b8"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/18556867-1399682520126704-6199270623220335578-o-128x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-25"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "Membership",
+        "order": 4
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "images/slide1.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Who We Are",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Join the Caucus</a>"
+              },
+              {
+                "image": "images/slide2.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "What We Do",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Join the Caucus</a>"
+              },
+              {
+                "image": "images/slide3.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Our Impact",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Join the Caucus</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-1e"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Caucus Chair Message",
+          "meta": "What ever you want to motivate people to become members, I would make this both text and a short video. &nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1g",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-2-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Secular Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azsecularcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" class=\"text-white\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" class=\"text-white\" target=\"_blank\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Secular Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">AZ Secular Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/\" target=\"_blank\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2c82c9"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#2877b8"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/18556867-1399682520126704-6199270623220335578-o-128x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-25"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Community Partners",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "Community Feedback",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/new-logo-for-buildings-210x218.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "One n Ten",
+          "caption1": "\"sample org, youll update your own, quote from them about help from caucus membership, or anything else nice you can think of\"<br><br>- name of person",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/10320272-759220074111015-7387022397276093720-n-253x300.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Equiality Arizona",
+          "caption2": "\"quote from them about help from caucus membership, or anything else nice you can think of\"\n<br>\n<br>- name of person",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pride-logo-600x134.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "<p><br></p><br><p>Phoenix Pride</p>",
+          "caption3": "\"quote from them about help from caucus membership, or anything else nice you can think of\"\n<br>\n<br>- name of person",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "XXXX",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "XXX",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-1n"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "images": [
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
+                "active": false
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
+                "active": false
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
+                "active": false
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
+                "active": false
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
+                "active": false
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
+                "active": false
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
+                "active": false
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-1o"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-2-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Secular Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azsecularcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" class=\"text-white\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" class=\"text-white\" target=\"_blank\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Secular Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">AZ Secular Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/\" target=\"_blank\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2c82c9"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#2877b8"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/18556867-1399682520126704-6199270623220335578-o-128x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-25"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "ADP Secular Caucus Bylaws",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Secular Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">AZ Secular Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/\" target=\"_blank\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#255f9f"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/18556867-1399682520126704-6199270623220335578-o-128x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-25"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Bylaws of the Arizona Democratic Secular Caucus\n<div><br></div>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-27"
+        },
+        {
+          "text": "<p><br></p><p>ARTICLE 1. NAME AND ESTABLISHMENT<br></p><p>Section 1. Name. The name of this organization shall be The Arizona Democratic Secular Caucus, hereinafter\n</p><p>referred to as “AZSC” or “The Caucus”.\n</p><p>Section 2. Mission. The mission of the AZSC is to strengthen the voice of grassroots activists; to work in support of\n</p><p>Secular Government and the Democratic Party candidates who champion those values; to elect Democrats; and, to\n</p><p>support and strengthen the Arizona Democratic Party.</p><p><br></p><p>\n</p><p>ARTICLE 2. ORGANIZATION\n</p><p>Section 1. Structure. The Caucus shall consist a general membership as defined in Article 3 and a Steering\n</p><p>Committee which shall be composed of the officers of the Caucus. Pursuant to the ADP bylaws, AZSC shall not\n</p><p>operate as a political action committee (PAC) as defined by and subject to either the Arizona Revised Statutes or by\n</p><p>the United States Code, but may register as a political organization with the Arizona Secretary of State.\n</p><p>Section 2. Officers. The elected positions shall consist of one chairperson; two vice-chairpersons, a first and a\n</p><p>second; one secretary; and, one parliamentarian. The offices of secretary, and parliamentarian may be held by\n</p><p>two separate persons or combined and held by one or two persons.\n</p><p>Section 3. County of residence and gender of members of the Steering Committee. The two vice-chairpersons\n</p><p>shall be of different genders and counties of residence.\n</p><p>Section 4. Duties of officers.\n</p><p>A. Chairpersons. The chairperson shall preside at all meetings of the Caucus, Steering Committee, or any Standing\n</p><p>or Special Committees established by the Caucus. When presiding at these meetings, the chairperson shall not\n</p><p>cast a vote, except when necessary for breaking a tie. The chairperson shall prepare meeting agendas, make\n</p><p>appointments to committees, make temporary appointments to fill vacant offices, and keep an inventory of any\n</p><p>property of the Caucus.\n</p><p>B. Vice-Chairpersons. The vice-chairpersons shall act as the chairperson in the absence of the chairperson. If a\n</p><p>vacancy occurs in the office of the chairperson, the first vice-chairperson shall serve as chairperson until a new\n</p><p>chairperson is elected by the membership of the Caucus. Other duties of the vice-chairpersons shall be assigned\n</p><p>by the chairperson.\n</p><p>C. Secretary. The secretary shall keep a written record of all meetings of the Caucus and the Steering Committee,\n</p><p>record of the membership in attendance at each meeting, and a register of the current membership of the Caucus.\n</p><p>The Secretary shall have responsibility for issuance of notices for all meetings and for all correspondence necessary\n</p><p>to conduct the business of the Caucus.\n</p><p>D. Parliamentarian. The parliamentarian shall facilitate the meetings of the Caucus or its subsidiary bodies,\n</p><p>advising the body on the required aspects of parliamentary procedure.\n</p><p>Section 5. Elections\n</p><p>A. Officers shall be elected at the biennial reorganization meeting of the Caucus, which shall be on the same date\n</p><p>and at the same location as the biennial reorganization of the State Committee of the Arizona Democratic Party.\n</p><p>All caucus members in good standing shall be eligible electors. Officers must receive an affirmative selection of a&nbsp;</p><p>majority of eligible votes cast; if no candidates receive such a majority, the person receiving the lowest number of\n</p><p>votes in the current ballot is eliminated and a run-off is held. The procedure is repeated until a candidate receives\n</p><p>a proper majority.\n</p><p>B. Terms of office. The term of office for all officers shall be two years. Terms begin immediately upon\n</p><p>completion of the election for the position and ends when any of the following occurs: the officer vacates the\n</p><p>position by resignation or death; the officer ceases to be a registered member of the Arizona Democratic Party; the\n</p><p>officer ceases to be a precinct committee-person of the Arizona Democratic Party; the officer ceases to be a\n</p><p>member of the State Committee of the Arizona Democratic Party; the officer is removed by the membership;\n</p><p>another person takes the office as a result of election at biennial reorganization meeting; or the officer becomes a\n</p><p>paid staff member of the Arizona Democratic Party or any of the County Democratic Parties.\n</p><p>C. Any officer may be removed from office upon a two-thirds vote of the members in good standing.\n</p><p>D. Vacancies may be temporarily filled by the chairperson. A special election must be held at the next regular\n</p><p>meeting of the Caucus to fill the position.\n</p><p>E. To be eligible for nomination as an officer, a person must: be a Democratic Party precinct committee-person,\n</p><p>appointed or elected; be a member of the State Committee, appointed or elected; have attended at least two of\n</p><p>the previous four regular meetings of the Caucus; and, not be a paid member of staff of the Arizona Democratic\n</p><p>Party or any of the County Democratic Parties.\n</p><p>F. To serve or continue to serve as an officer, a person must: be a Democratic Party precinct committee-person,\n</p><p>appointed or elected; be a member of the State Committee, appointed or elected; have attended at least two of\n</p><p>the previous four regular meetings of the Caucus; and, not be a paid member of staff of the Arizona Democratic\n</p><p>Party or any of the County Democratic Parties. An officer not meeting these criteria will be deemed to have\n</p><p>resigned.\n</p><p><br></p><p>ARTICLE 3. MEMBERSHIP\n</p><p>Section 1. Eligibility. Any person registered to vote as a Democrat in Arizona is eligible to be a member of the\n</p><p>Caucus.\n</p><p>Section 2. Membership. Membership in the Caucus is conferred by in-person attendance at any regular meeting\n</p><p>of the Caucus and completion of a membership application. Membership requires in-person attendance at one\n</p><p>regular meeting of the Caucus in each calendar year; failing this requirement, a membership is withdrawn but may\n</p><p>be reinstated after re-registration.\n</p><p>Section 3. Membership in good standing. Membership in good standing is conferred by in-person attendance at\n</p><p>any regular meeting of the Caucus. Good standing begins when the attended regular meeting is called to order\n</p><p>and continues until the next regular meeting of the Caucus is called to order.\n</p><p>Section 4. Same-day registration. An eligible person may become a member in good standing at the first meeting\n</p><p>the person attends after completing the membership application and delivering it to an officer of the Caucus.\n</p><p><br></p><p>ARTICLE 4. MEETINGS, QUORUM.\n</p><p>Section 1. Regular meetings. General meetings of the membership of the Caucus will be held, without further or\n</p><p>special notice, at the place and usually immediately before the regular meetings of the State Committee of the\n</p><p>Arizona Democratic Party.&nbsp;</p><p>Section 2. Special meetings. Special meetings of the membership of the Caucus shall be held as called by the\n</p><p>Steering Committee on such notice as is reasonable and appropriate under the circumstances. Notice for special\n</p><p>meetings shall be at least ten (10) days before the special meeting called, and shall state the date, time, place and\n</p><p>agenda of the special meeting.\n</p><p>Section 3. Quorum. The membership in good standing at a regular meeting shall constitute a quorum. Ten\n</p><p>percent of the membership in good standing of the last regular meeting shall constitute a quorum at a special\n</p><p>meeting.\n</p><p><br></p><p>ARTICLE 5. MEETING PROCESSES, DECISION PROCEDURES; PARTICIPATION BY MEMBERS.\n</p><p>Section 1. Parliamentary procedure. The parliamentary procedure contained in the latest edition of Robert’s Rules\n</p><p>of Order Newly Revised shall govern in all cases to which they are applicable and where not inconsistent with this\n</p><p>constitution or such special rules of order as may be adopted by the membership or adopted herein.\n</p><p>Section 2. Preference for consensus. The Caucus will prefer consensus ahead of majority rule. Members are\n</p><p>encouraged to consider how best to act within the caucus to build consensus instead of contention, both in\n</p><p>meetings of the Caucus and in communication between meetings.\n</p><p>Section 3. Participation. All meetings, discussions, debates, and dialogues of the Caucus shall be as open as is\n</p><p>reasonably possible and shall include the widest possible participation of the membership. Preference shall be\n</p><p>placed upon the full participation of the whole membership. Breaches of the decorum of the Caucus shall require\n</p><p>limitation on the participation of those participating in such a breach, e.g. argumentum ad hominem; disrespectful,\n</p><p>hateful, or belligerent speech; and, abuse of the time and manner of debate or discussion.\n</p><p>Section 4. ADP Bylaws. The current bylaws of the Arizona Democratic Party shall supersede these bylaws if they\n</p><p>are found to be in conflict.\n</p><p><br></p><p>ARTICLE 6. ACTING AND SPEAKING ON BEHALF OF THE CAUCUS\n</p><p>Section 1. Actions on behalf of the Caucus. Only the general membership voting at its meetings or the Steering\n</p><p>Committee between general meetings shall be able to speak, decide, or act on behalf of AZSC. Any actions taken\n</p><p>by the Steering Committee between general meetings shall, upon reasonable notice given to the Steering\n</p><p>Committee by anyone seeking such review, be subject to review and modification by the subsequent regular\n</p><p>meeting.\n</p><p><br></p><p>ARTICLE 8. Committees\n</p><p>Section 1. Establishment. With the advice and consent of the Steering Committee, the chairperson may establish\n</p><p>standing or special committees of the membership. The Steering Committee shall appoint the members of the\n</p><p>committee.\n</p><p>Section 2. Types of committees. A standing committee shall be a permanent committee of the caucus. A special\n</p><p>committee of the caucus shall be created with a specific date of its dissolution.\n</p><p>Section 3. Committee chairperson. The membership of the committee shall select a chairperson from the\n</p><p>membership of the committee. This chairperson shall serve as an ex-officio member of the Steering Committee of\n</p><p>the Caucus.\n</p><p>Section 4. Powers. The standing and special committees of the Caucus shall make recommendations to the\n</p><p>general membership, but the approval of the electorate at a general meeting is required for the expenditure of\n</p><p>funds or public expression on behalf of the Caucus.</p><p><br></p><p>ARTICLE 9. AMENDMENT AND EFFECTIVE DATE OF BYLAWS\n</p><p>Section 1. These bylaws may be amended by a decision of a simple majority of the membership at a regular\n</p><p>meeting. The text of any amendment shall be required to be set forth in the notice of a meeting to be considered\n</p><p>at that meeting.\n</p><p>Section 2. These bylaws shall become effective when they are adopted by the Caucus at a regular meeting.\n</p><p>Section 3. If the composition of the Steering Committee does not meet the requirements of Article 2 at the time of\n</p><p>adoption of these bylaws, the current Steering Committee may continue as officers until the next biennial election.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-28"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-2-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Secular Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azsecularcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" class=\"text-white\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" class=\"text-white\" target=\"_blank\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-26"
+        }
+      ]
+    }
+  }
+}
